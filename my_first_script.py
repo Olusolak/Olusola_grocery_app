@@ -11,4 +11,4 @@ eggs_price = 4.59
 total_cost = milk_price + bread_price + eggs_price
 
 # Print the total cost with a friendly message
- print(f"Your total is: ${total_cost:.2f}")
+print(f"Your total is: ${total_cost:.2f}")
